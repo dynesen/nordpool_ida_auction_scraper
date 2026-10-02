@@ -1,0 +1,6 @@
+pandas==2.3.3
+psycopg2-binary==2.9.11
+SQLAlchemy
+python-dotenv
+requests
+playwright
